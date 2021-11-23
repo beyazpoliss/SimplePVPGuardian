@@ -1,0 +1,17 @@
+tr\beyazpolis\net\config\Config.class
+tr\beyazpolis\net\listener\BukkitEventListener.class
+tr\beyazpolis\net\profile\FighterProfile.class
+tr\beyazpolis\net\manager\DatabaseManager.class
+tr\beyazpolis\net\manager\ConfigManager.class
+tr\beyazpolis\net\manager\SchedulerManager.class
+tr\beyazpolis\net\profile\PlayerProfile.class
+tr\beyazpolis\net\guardian\CombatGuardian.class
+tr\beyazpolis\net\guardian\CGuardian.class
+tr\beyazpolis\net\database\Database.class
+tr\beyazpolis\net\schedule\CombatTimer.class
+tr\beyazpolis\net\config\SettingsConfig.class
+tr\beyazpolis\net\manager\ProfileManager.class
+tr\beyazpolis\net\schedule\FightTimer.class
+tr\beyazpolis\net\SimplePvpGuardian.class
+tr\beyazpolis\net\database\types\YamlDatabase.class
+tr\beyazpolis\net\GuardianCommand.class
